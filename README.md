@@ -1,7 +1,7 @@
 # m3u8 CloudflareWorker Proxy
 
 ## Install Method 1
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Gratenes/m3u8CloudflareWorkerProxy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SAKURA-YUMI/m3u8CloudflareWorkerProxy)
 
 ## Example V2
 
